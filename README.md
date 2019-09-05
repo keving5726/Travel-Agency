@@ -104,8 +104,8 @@ Una ultima ruta para obtener un JSON Web Token.
 
 POST /authentication_token (Obtener un JSON Web Token (JWT.)
 {
-  "username": "johndoe",
-  "password":"test"
+  "username": "cedula del usuario",
+  "password": "contraseña del usuario"
 }
 
 Para una mejor documentación ir a la ruta http://localhost/api
